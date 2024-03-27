@@ -25,3 +25,6 @@ EXPOSE 5000
 CMD ["python", "app.py"]
 
 # host='0.0.0.0', port=5000
+# sudo apt install unrar
+# unrar x /path/to/your/file.rar /path/to/extract
+
